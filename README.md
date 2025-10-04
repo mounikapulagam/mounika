@@ -1,4 +1,4 @@
-# mounika
+# mounikapulagam
 ## Software Engineer at Tech Mahindra | Aspiring Data Analyst | Skilled in Power BI, SQL, Excel &amp; Python Fundamentals |Committed to Data-Driven Efficiency |open to new opportunities
 Hey there! I’m Mounika, a Software Engineer at Tech Mahindra with over 4 years of experience in the IT–Telecom Billing domain. I’ve worked across Tariff Operations, Application Support, and Order Workflow Management, gaining strong problem-solving and analytical skills using tools like TOAD, ITSM, Salesforce, and Putty.
 
